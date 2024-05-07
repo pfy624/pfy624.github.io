@@ -24,9 +24,9 @@ author:
   avatar           : "panfeiyang.png"
   name             : "Feiyang Pan"
   pronouns         : # example: "she/her"  
-  bio              : "A graduate student. Focusing on prognostics and health management"
+  bio              : "Graduate student, USTC"
   location         : "Hefei, China"
-  employer         : "University of Science and .<br>Technology of China"
+  employer         : # "University of Science and Technology of China"
   uri              : # URL
   email            : "panfeiyang624@gmail.com" 
 
