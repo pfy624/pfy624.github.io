@@ -39,6 +39,6 @@ Please find his CV [here](../files/cv.pdf "Feiyang Pan's CV"){:target="_blank"}.
 
 # 🔧Skills
 
-- Programming: C/C++, Matlab, Fortran 95/2003, Python, LaTeX 
-- Parallel computing: MPI, OpenMP, Coarray Fortran 
+- Programming: Matlab, Python, LaTeX 
+- Software: Ansys Maxwell, K-Wave, Amira 
 - Languages: (Mandarin) Chinese, English 
