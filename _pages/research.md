@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Feiyang Pan's Research Page"
+permalink: /research/
 author_profile: true
 ---
 
