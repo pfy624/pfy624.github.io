@@ -42,3 +42,42 @@ Please find his CV [here](../files/cv.pdf "Feiyang Pan's CV"){:target="_blank"}.
 - Programming: Matlab, Python, LaTeX 
 - Software: Ansys Maxwell, K-Wave, Amira 
 - Languages: (Mandarin) Chinese, English 
+
+# 📷Gallery
+
+<center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/pictures/pfy-1.jpg" 
+        width = "30%">
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/pictures/pfy-2.jpg" 
+        width = "30%">
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/pictures/pfy-5.jpg" 
+        width = "30%">
+    <br>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/pictures/pfy-3.jpg" 
+        width = "30%">
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/pictures/pfy-4.jpg" 
+        width = "30%">
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/pictures/pfy-6.jpg" 
+        width = "30%">
+    <p> </p>
+</center>
+
+---
