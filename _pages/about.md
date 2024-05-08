@@ -54,17 +54,17 @@ Please find his CV [here](../files/cv.pdf "Feiyang Pan's CV"){:target="_blank"}.
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/pictures/pfy1.jpg" 
-        width = "36%">
+        width = "35%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/pictures/pfy2.jpg" 
-        width = "33%">
+        width = "32%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/pictures/pfy9.jpg" 
-        width = "33%">
+        width = "32%">
     <br>
     <img style = "
         border-radius: 0.3125em;
