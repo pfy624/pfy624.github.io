@@ -49,33 +49,33 @@ Please find his CV [here](../files/cv.pdf "Feiyang Pan's CV"){:target="_blank"}.
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/pictures/pfy-1.jpg" 
+        src = "../files/pictures/pfy1.jpg" 
         width = "30%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/pictures/pfy-2.jpg" 
+        src = "../files/pictures/pfy2.jpg" 
         width = "30%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/pictures/pfy-5.jpg" 
+        src = "../files/pictures/pfy5.jpg" 
         width = "30%">
     <br>
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/pictures/pfy-3.jpg" 
+        src = "../files/pictures/pfy3.jpg" 
         width = "30%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/pictures/pfy-4.jpg" 
+        src = "../files/pictures/pfy4.jpg" 
         width = "30%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/pictures/pfy-6.jpg" 
+        src = "../files/pictures/pfy6.jpg" 
         width = "30%">
     <p> </p>
 </center>
