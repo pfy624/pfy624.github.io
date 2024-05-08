@@ -19,7 +19,7 @@ Please find his CV [here](../files/cv.pdf "Feiyang Pan's CV"){:target="_blank"}.
     - Graduate Student in *Precision Machine and Precision Instrument*
 - 09/2018 ~ 06/2022: <img src="../files/glasgow_college.jpg" style="height: 1.1em"> [Glasgow college](https://www.gla.uestc.edu.cn/english/Home.htm "Glasgow College，UESTC"){:target="_blank"}, <img src="../files/UESTC-logo.jpg" style="height: 1.1em"> [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/ "UESTC"){:target="_blank"}, <img src="../files/glasgow-logo.jpg" style="height: 1.1em"> [University of Glasgow](https://www.gla.ac.uk/ "UoG"){:target="_blank"}
     - B.Sc. in *Electronic and Information Engineering* 
-    - GPA: 3.87/4.0 (89.10/100.00), rank 20<sup>st</sup>/231 in the major 
+    - GPA: 3.87/4.0 (89.10/100.00), rank 20/231 in the major 
 - 09/2015 ~ 06/2018: <img src="../files/wuhan_6zhong.jpeg" style="height: 1.1em"> Wuhan No. 6 High School 
 
 # 📃Publications
@@ -54,33 +54,33 @@ Please find his CV [here](../files/cv.pdf "Feiyang Pan's CV"){:target="_blank"}.
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/pictures/pfy1.jpg" 
-        width = "35%">
+        width = "33%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/pictures/pfy2.jpg" 
-        width = "32%">
+        width = "30%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/pictures/pfy9.jpg" 
-        width = "32%">
+        width = "30%">
     <br>
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/pictures/pfy3.jpg" 
-        width = "37%">
+        width = "35%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/pictures/pfy4.jpg" 
-        width = "40%">
+        width = "38%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/pictures/pfy6.jpg" 
-        width = "20%">
+        width = "18%">
     <p> </p>
 </center>
 
