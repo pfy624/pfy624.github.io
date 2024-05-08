@@ -31,17 +31,21 @@ Please find his CV [here](../files/cv.pdf "Feiyang Pan's CV"){:target="_blank"}.
 - **Pan, F.**, Ren, L., Zhou, J., & Liu, Z. (2022, March). Fault classification based on computer vision for steel wire ropes. In Journal of Physics: Conference Series (Vol. 2184, No. 1, p. 012035). IOP Publishing. [Link](https://iopscience.iop.org/article/10.1088/1742-6596/2184/1/012035/meta "IOP conf"){:target="_blank"}.
 
 # 🏅Honors and Awards
+
+- 02/2024:  Scholarship for graduate
+- 10/2023:  Co-authored IEEE-PHM paper get the best paper award in PHM-Hangzhou 2023.
+- 05/2023:  Research findings were reported by official Weibo account of the UESTC.[Link](https://weibo.com/3982954755/4905682024006101 "UESTC-weibo")
+- 09/2022:  USTC Freshman Scholarship 
 - 06/2022:  Sichuan Province Outstanding Undergraduate Award (Top 3%)
 - 06/2022:  UESTC Outstanding Undergraduate Award 
 - 04/2021:  Mathematical Contest in Modeling (MCM)，Honorable Mention (Top 26%)
 - 10/2020: China Undergraduate Mathematical Contest in Modeling (CUMCM)，First prize (Top 2%)
 
-
 # 🔧Skills
 
 - Programming: Matlab, Python, LaTeX 
 - Software: Ansys Maxwell, K-Wave, Amira 
-- Languages: (Mandarin) Chinese, English 
+- Languages: (Mandarin) Chinese, English(IELTS 7.0)
 
 # 📷Gallery
 
@@ -50,7 +54,7 @@ Please find his CV [here](../files/cv.pdf "Feiyang Pan's CV"){:target="_blank"}.
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/pictures/pfy1.jpg" 
-        width = "30%">
+        width = "35%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
@@ -71,7 +75,7 @@ Please find his CV [here](../files/cv.pdf "Feiyang Pan's CV"){:target="_blank"}.
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/pictures/pfy4.jpg" 
-        width = "30%">
+        width = "37%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
