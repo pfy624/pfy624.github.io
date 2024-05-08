@@ -59,8 +59,8 @@ Please find his CV [here](../files/cv.pdf "Feiyang Pan's CV"){:target="_blank"}.
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/pictures/pfy5.jpg" 
-        width = "30%">
+        src = "../files/pictures/pfy9.jpg" 
+        width = "90%">
     <br>
     <img style = "
         border-radius: 0.3125em;
@@ -76,7 +76,7 @@ Please find his CV [here](../files/cv.pdf "Feiyang Pan's CV"){:target="_blank"}.
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/pictures/pfy6.jpg" 
-        width = "30%">
+        width = "15%">
     <p> </p>
 </center>
 
