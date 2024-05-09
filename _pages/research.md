@@ -1,16 +1,19 @@
 ---
-layout: archive
+# layout: archive # too wide
 title: "Feiyang Pan's Research Page"
 permalink: /research/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+# Research Interets 
 
-{% include base_path %}
+1. Nondestructive testing: 
+   - Signal processing method
+   - Image processing method
+   - Machine-learning based method
+  
+2. Scientific computing: 
+   - Parallel numerical solvers 
+   - Iterative methods 
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+---
