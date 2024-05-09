@@ -43,12 +43,12 @@ In this study, the effect of noise distortion is analyzed and an image processin
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/undergraduate-research-program/tie1.png" 
+        src = "../files/tie1.png" 
         width = "46.5%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/undergraduate-research-program/tie2.png" 
+        src = "../files/tie2.png" 
         width = "50%">
     <br>
     <div style = "
@@ -57,7 +57,7 @@ In this study, the effect of noise distortion is analyzed and an image processin
         display: inline-block;
         color: #999;
         padding: 2px;">
-        left: Noise distortion in MFL image; right: Case study
+        left: Inspection equipment; right: Case study
     </div>
     <p> </p>
 </center>
