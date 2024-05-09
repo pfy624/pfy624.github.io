@@ -21,32 +21,34 @@ author_profile: true
 
 # Research Experiences 
 
-## 1. Numerical Simulation of Plasma Equilibrium Evolution in Nuclear Fusion 
+## 1. Fault Diagnosis of Steel Wire Rope Based on Image Processing and Deep Learning
 
-*Undergraduate Research Program at USTC* 
+*Research Program at UESTC* 
 
-Supervisor: [Prof. Mengping ZHANG](https://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=860 "Prof. Mengping ZHANG's homepage"){:target="_blank"} 
+ - *Supervisor*: [Prof. Zhiliang LIU](https://www.smee.uestc.edu.cn/info/1177/8351.htm "Prof. Zhiliang LIU's homepage"){:target="_blank"} 
 
-07/2021 ~ 05/2022, USTC 
+ - *Time*: 09/2020 ~ 05/2023, UESTC 
 
-Defense: 12/30/2022 
+ - *Program Introduction*:
+   Steel wire ropes are important load-bearing components in many industrial cases. Flaws on steel wire ropes can threat the safety of the system. Magnetic flux leakage method is a promising non-destructive testing (NDT) method to detect flaws on steel wire ropes, but various kinds of noises severely influence the detection accuracy. There are two main part of this program:
+   - Mechanism simulation and Hardware design: Design inspection equipment based on magnetic field simulation.
+   - Algorithm: Develope new signal/image processing method or data driven method to increase the inspection performance.
 
-The controlled nuclear fusion is one of the most prospective solution to the energy crisis and environmental problems. The tokamak has been widely investigated as the most feasible magnetically confined fusion device. Tearing mode instabilities have great influence on the fusion reaction thus worth stuying. 
+### Publication 1. 
+ - Pan, F., Liu, Z., Ren, L., & Zuo, M. (2023). Adaptive local flaw detection based on magnetic flux leakage images with a noise distortion effect for steel wire ropes. IEEE Transactions on Industrial Electronics. (Impact factor = 7.7) Link.
 
-In this research, in order to simulate the evolution process of tokamak plasma instability numerically, we reviewed different formulations of the MHD equations, selected a suitable type of nonconservative resistive MHD, and developed a parallel solver using hybrid finite difference-Fourier pseudo spectral method in cylindrical coordinates. Using our solver, we simulated the (m,n)=(2,1) resistive tearing mode instability, and checked the results against those obtained from the CLT and M3D-C1 code with researchers from Institute of Plasma Physics, Chinese Academy of Science. Our solver exhibits satisfactory performance in conserving numerical divergence of the magnetic field, fitting the theoretical relation between logrithmic growth rate of kinetic energy and resistivity, revealing the tearing mode structure independent of initial peturbation at the linear stage, and reaching the final saturation stage. 
-
-Below is a plot of the perturbation on the toroidal component of the electric field at time T=7000, which reveals the resistive tearing mode structure and should be independent of the initial perturbation, and a log-plot of kinetic energy evolution under different resistivity. Our code reveals the linear growing stage, mode structure and the logrithmic growth rate very well. 
+In this study, the effect of noise distortion is analyzed and an image processing based method is proposed to solve this problem. 
 
 <center>
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/undergraduate-research-program/cpt_13.png" 
+        src = "../files/undergraduate-research-program/tie1.png" 
         width = "46.5%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/undergraduate-research-program/energy.png" 
+        src = "../files/undergraduate-research-program/tie2.png" 
         width = "50%">
     <br>
     <div style = "
@@ -55,7 +57,7 @@ Below is a plot of the perturbation on the toroidal component of the electric fi
         display: inline-block;
         color: #999;
         padding: 2px;">
-        left: tearing mode sturtcure; right: kinetic energy
+        left: Noise distortion in MFL image; right: Case study
     </div>
     <p> </p>
 </center>
