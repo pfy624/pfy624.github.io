@@ -9,7 +9,7 @@ author_profile: true
 
 1. Signal/Image Processing and Artificial Intelligence 
    - Densoising method
-   - Object Detection
+   - Object Detection 
 
 2. Prognostics and health management (fault diagnosis, anomaly detection) : 
    - Intelligent Sensor Method
