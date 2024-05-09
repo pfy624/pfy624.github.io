@@ -30,8 +30,7 @@ author_profile: true
  - *Time*: 09/2020 ~ 05/2023, UESTC 
 
  - *Program Introduction*:
-
-   Steel wire ropes are important load-bearing components in many industrial cases. Flaws on steel wire ropes can threat the safety of the system. Magnetic flux leakage method is a promising non-destructive testing (NDT) method to detect flaws on steel wire ropes, but various kinds of noises severely influence the detection accuracy. There are two main part of this program:
+    Steel wire ropes are important load-bearing components in many industrial cases. Flaws on steel wire ropes can threat the safety of the system. Magnetic flux leakage method is a promising non-destructive testing (NDT) method to detect flaws on steel wire ropes, but various kinds of noises severely influence the detection accuracy. There are two main part of this program:
    - Mechanism simulation and Hardware design: Design inspection equipment based on magnetic field simulation.
    - Algorithm: Develope new signal/image processing method or data driven method to increase the inspection performance.
 
