@@ -17,6 +17,7 @@ Please find his CV [here](../files/cv.pdf "Feiyang Pan's CV"){:target="_blank"}.
 
 - 09/2022 ~ Present: [Division of Precision Machine and Precision Instrument](https://pmpi.ustc.edu.cn/main.htm "PMPI, USTC"){:target="_blank"}, <img src="../files/USTC-logo.png" style="height: 1.1em"> [University of Science and Technology of China](https://en.ustc.edu.cn "USTC"){:target="_blank"} 
     - Graduate Student in *Precision Machine and Precision Instrument*
+    - GPA: 3.96/4.30 (91.7/100)，rank 6/132
 - 09/2018 ~ 06/2022: <img src="../files/glasgow_college.jpg" style="height: 1.1em"> [Glasgow college](https://www.gla.uestc.edu.cn/english/Home.htm "Glasgow College，UESTC"){:target="_blank"}, <img src="../files/UESTC-logo.jpg" style="height: 1.1em"> [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/ "UESTC"){:target="_blank"}, <img src="../files/glasgow-logo.jpg" style="height: 1.1em"> [University of Glasgow](https://www.gla.ac.uk/ "UoG"){:target="_blank"}
     - B.Sc. in *Electronic and Information Engineering* 
     - GPA: 3.87/4.0 (89.10/100.00), rank 20/231 in the major 
