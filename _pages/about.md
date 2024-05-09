@@ -46,7 +46,7 @@ Please find his CV [here](../files/cv.pdf "Feiyang Pan's CV"){:target="_blank"}.
 
 - Programming: Matlab, Python, LaTeX 
 - Software: Ansys Maxwell, K-Wave, Amira 
-- Languages: (Mandarin) Chinese, English(IELTS 7.0)
+- Languages: (Mandarin) Chinese, English (IELTS 7.0)
 
 # 📷Gallery
 
