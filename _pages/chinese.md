@@ -15,7 +15,7 @@ author_profile: true
 
 [个人简历](../files/cv_cn.pdf "潘斐扬的简历"){:target="_blank"}. 
 
-# 🎓Education 
+# 🎓教育经历 
 
 - 2022年9月 ~ 现今: [工程科学学院](https://pmpi.ustc.edu.cn/main.htm "PMPI, USTC"){:target="_blank"}, <img src="../files/USTC-logo.png" style="height: 1.1em"> [中国科学技术大学](https://en.ustc.edu.cn "USTC"){:target="_blank"} 
     - 精密机械与精密仪器系，学术型硕士研究生
@@ -25,13 +25,22 @@ author_profile: true
     - GPA: 3.87/4.0 (89.10/100.00), 排名 20/231 in the major 
 - 2015年9月 ~ 2018年6月: <img src="../files/wuhan_6zhong.jpeg" style="height: 1.1em"> 武汉六中 
 
-# 📃Publications
+# 📃成果
 
+## 论文
 - **Pan, F**., Liu, Z., Ren, L., Yang, L., & Zuo, M. (2024) Ensemble fault detection based on magnetic flux leakage images with noise robustness for steel wire ropes. (under review)
 - Ren, L., Liu, Z., **Pan, F**., Yang, L. (2024) Internal Broken Wire Inspection Equipment and Adaptive Detection Method Based on Magnetic Flux Leakage Imaging. (under review)
 - **Pan, F**., Liu, Z., Ren, L., & Zuo, M. (2023). Adaptive local flaw detection based on magnetic flux leakage images with a noise distortion effect for steel wire ropes. IEEE Transactions on Industrial Electronics. (Impact factor = 7.7) [Link](https://ieeexplore.ieee.org/abstract/document/10122866 "IEEE TIE"){:target="_blank"}.
 - **Pan, F.**, Huang, Y., Ren, L., & Liu, Z. (2023, October). Inspection of Wire Ropes Based on Magnetic Flux Leakage Images by Using YOLOv5. In 2023 Global Reliability and Prognostics and Health Management Conference (PHM-Hangzhou) (pp. 1-7). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/10482526 "IEEE PHM"){:target="_blank"}.
 - **Pan, F.**, Ren, L., Zhou, J., & Liu, Z. (2022, March). Fault classification based on computer vision for steel wire ropes. In Journal of Physics: Conference Series (Vol. 2184, No. 1, p. 012035). IOP Publishing. [Link](https://iopscience.iop.org/article/10.1088/1742-6596/2184/1/012035/meta "IOP conf"){:target="_blank"}.
+
+## 专利
+
+ - 黄奕程,刘志亮,**潘斐扬**,等.    一种基于漏磁图像目标检测的钢丝绳缺陷辨识方法[P].    山东省:    CN202311643447.6,    2024-02-06.  
+ - **潘斐扬**,刘志亮,任礼源,等.    一种失真噪声下的钢丝绳漏磁图像缺陷检测方法[P].    山东省:    CN202211315809.4,    2023-01-06.  
+ - 刘志亮,杨磊磊,**潘斐扬**,等.    一种基于漏磁图像纹理获取运动钢丝绳速度和位移的方法[P].    山东省:    CN202210151266.0,    2022-05-27.  
+ - 刘志亮,**潘斐扬**,左明健.    一种钢丝绳的柱面全景拼接方法[P].    山东省:    CN202111543409.4,    2022-03-22.  
+ - 刘志亮,**潘斐扬**,左明健.    一种基于金属光泽区域的钢丝绳缺陷检测方法[P].    山东省:    CN202111293282.5,    2022-02-15.  
 
 # 🏅Honors and Awards
 
