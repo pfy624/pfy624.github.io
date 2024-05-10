@@ -26,7 +26,6 @@ Please find his CV [here](../files/cv.pdf "Feiyang Pan's CV"){:target="_blank"}.
 # 📃Publications
 
 - **Pan, F**., Liu, Z., Ren, L., Yang, L., & Zuo, M. (2024) Ensemble fault detection based on magnetic flux leakage images with noise robustness for steel wire ropes. (under review)
-- Ren, L., Liu, Z., **Pan, F**., Yang, L. (2024) Internal Broken Wire Inspection Equipment and Adaptive Detection Method Based on Magnetic Flux Leakage Imaging. (under review)
 - **Pan, F**., Liu, Z., Ren, L., & Zuo, M. (2023). Adaptive local flaw detection based on magnetic flux leakage images with a noise distortion effect for steel wire ropes. IEEE Transactions on Industrial Electronics. (Impact factor = 7.7) [Link](https://ieeexplore.ieee.org/abstract/document/10122866 "IEEE TIE"){:target="_blank"}.
 - **Pan, F.**, Huang, Y., Ren, L., & Liu, Z. (2023, October). Inspection of Wire Ropes Based on Magnetic Flux Leakage Images by Using YOLOv5. In 2023 Global Reliability and Prognostics and Health Management Conference (PHM-Hangzhou) (pp. 1-7). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/10482526 "IEEE PHM"){:target="_blank"}.
 - **Pan, F.**, Ren, L., Zhou, J., & Liu, Z. (2022, March). Fault classification based on computer vision for steel wire ropes. In Journal of Physics: Conference Series (Vol. 2184, No. 1, p. 012035). IOP Publishing. [Link](https://iopscience.iop.org/article/10.1088/1742-6596/2184/1/012035/meta "IOP conf"){:target="_blank"}.
