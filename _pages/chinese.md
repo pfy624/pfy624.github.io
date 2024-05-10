@@ -19,10 +19,10 @@ author_profile: true
 
 - 2022年9月 ~ 现今: [工程科学学院](https://pmpi.ustc.edu.cn/main.htm "PMPI, USTC"){:target="_blank"}, <img src="../files/USTC-logo.png" style="height: 1.1em"> [中国科学技术大学](https://en.ustc.edu.cn "USTC"){:target="_blank"} 
     - 精密机械与精密仪器系，学术型硕士研究生
-    - GPA: 3.96/4.30 (91.7/100)，排名 6/132
+    - GPA: 3.96/4.30 (91.7/100)，专业排名 6/132
 - 2018年9月 ~ 2022年6月: <img src="../files/glasgow_college.jpg" style="height: 1.1em"> [格拉斯哥学院](https://www.gla.uestc.edu.cn/english/Home.htm "Glasgow College，UESTC"){:target="_blank"}, <img src="../files/UESTC-logo.jpg" style="height: 1.1em"> [电子科技大学](https://en.uestc.edu.cn/ "UESTC"){:target="_blank"}, <img src="../files/glasgow-logo.jpg" style="height: 1.1em"> [格拉斯哥大学](https://www.gla.ac.uk/ "UoG"){:target="_blank"}
     - 电子信息工程学士学位
-    - GPA: 3.87/4.0 (89.10/100.00), 排名 20/231 in the major 
+    - GPA: 3.87/4.0 (89.10/100.00), 专业排名 20/231
 - 2015年9月 ~ 2018年6月: <img src="../files/wuhan_6zhong.jpeg" style="height: 1.1em"> 武汉六中 
 
 # 📃成果
@@ -41,24 +41,24 @@ author_profile: true
  - 一种钢丝绳的柱面全景拼接方法[P].    山东省:    CN202111543409.4,    2022-03-22.  
  - 一种基于金属光泽区域的钢丝绳缺陷检测方法[P].    山东省:    CN202111293282.5,    2022-02-15.  
 
-# 🏅Honors and Awards
+# 🏅获得奖项
 
-- 02/2024:  Scholarship for graduate
-- 10/2023:  Co-authored IEEE-PHM paper get the best paper award in PHM-Hangzhou 2023.
-- 05/2023:  Research findings were reported by official Weibo account of the UESTC.[Link](https://weibo.com/3982954755/4905682024006101 "UESTC-weibo")
-- 09/2022:  USTC Freshman Scholarship 
-- 06/2022:  Sichuan Province Outstanding Undergraduate Award (Top 3%)
-- 06/2022:  UESTC Outstanding Undergraduate Award 
-- 04/2021:  Mathematical Contest in Modeling (MCM)，Honorable Mention (Top 26%)
-- 10/2020: China Undergraduate Mathematical Contest in Modeling (CUMCM)，First prize (Top 2%)
+- 02/2024:  研究生奖学金
+- 10/2023:  合作的IEEE-PHM论文获得PHM会议最佳会议论文奖
+- 05/2023:  研究成果被电子科技大学微博官方号报道[Link](https://weibo.com/3982954755/4905682024006101 "UESTC-weibo")
+- 09/2022:  中科大研究生入学奖学金
+- 06/2022:  四川省优秀本科毕业生 (前 3%)
+- 06/2022:  电子科技大学优秀本科毕业生
+- 04/2021:  美国大学生数学建模竞赛，H奖
+- 10/2020:  高教社杯中国大学生数学建模竞赛，国家一等奖 (前 2%)
 
-# 🔧Skills
+# 🔧技能
 
-- Programming: Matlab, Python, LaTeX 
-- Software: Ansys Maxwell, K-Wave, Amira 
-- Languages: (Mandarin) Chinese, English (IELTS 7.0)
+- 编程语言: Matlab（主要）, Python, LaTeX 
+- 软件: Ansys Maxwell, K-Wave, Amira 
+- 语言: 汉语, 英语 (雅思 7.0)
 
-# 📷Gallery
+# 📷个人照片
 
 <center>
     <img style = "
