@@ -23,8 +23,6 @@ author_profile: true
 
 ## 1. 09/2020 ~ present, UESTC, Fault Diagnosis of Steel Wire Rope Based on Image Processing and Deep Learning
 
-*Research Program at UESTC* 
-
  - *Supervisor*: [Prof. Zhiliang LIU](https://www.smee.uestc.edu.cn/info/1177/8351.htm "Prof. Zhiliang LIU's homepage"){:target="_blank"} 
 
  - *Program Introduction*:
@@ -78,7 +76,7 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 2px;">
-        using nuclear norm minimization
+        Schematic of the detection method.
     </div>
     <p> </p>
 </center>
@@ -101,7 +99,7 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 2px;">
-        using nuclear norm minimization
+        Optical image capturing equipments.
     </div>
     <p> </p>
 </center>
