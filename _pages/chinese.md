@@ -1,7 +1,7 @@
 ---
 # layout: archive # too wide
 title: "欢迎来到潘斐扬的个人主页！"
-permalink: /zh_cn/
+permalink: /chinese/
 author_profile: true
 ---
 
@@ -9,7 +9,7 @@ author_profile: true
 <!-- {% include toc %} -->
 ---
 
-# 👨‍🎓About
+# 👨‍🎓个人简介
 
 **潘斐扬**，男，武汉人，现为中国科学技术大学工程科学学院精密机械与精密仪器系研究生。目前感兴趣的研究方向为故障诊断与设备健康监测中的算法设计。
 
