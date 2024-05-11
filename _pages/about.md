@@ -39,7 +39,7 @@ Please find his CV [here](../files/cv.pdf "Feiyang Pan's CV"){:target="_blank"}.
 - 06/2022:  Sichuan Province Outstanding Undergraduate Award (Top 3%)
 - 06/2022:  UESTC Outstanding Undergraduate Award 
 - 04/2021:  Mathematical Contest in Modeling (MCM)，Honorable Mention
-- 10/2020: China Undergraduate Mathematical Contest in Modeling (CUMCM)，First prize (Top 2%)
+- 10/2020: China Undergraduate Mathematical Contest in Modeling (CUMCM), First prize (Top 2%)
 
 # 🔧Skills
 
