@@ -11,7 +11,7 @@ redirect_from:
 
 **Feiyang Pan** is a 2<sup>nd</sup>-year Graduate student in the School of Engineering Science, University of Science and Technology of China (USTC). His research interests include signal/image processing, prognostics and health management by using advanced signal processing and data-mining methods. 
 
-Please find his CV [here](../files/cv.pdf "Feiyang Pan's CV"){:target="_blank"}. 
+Please find his CV [here](../files/cv_pfy.pdf "Feiyang Pan's CV"){:target="_blank"}. 
 
 # 🎓Education 
 
