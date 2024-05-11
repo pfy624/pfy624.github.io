@@ -32,7 +32,7 @@ Please find his CV [here](../files/cv.pdf "Feiyang Pan's CV"){:target="_blank"}.
 
 # 🏅Honors and Awards
 
-- 02/2024:  Scholarship for graduate
+- 02/2024:  Scholarship for graduate student
 - 10/2023:  Co-authored IEEE-PHM paper get the best paper award in PHM-Hangzhou 2023.
 - 05/2023:  Research findings were reported by official Weibo account of the UESTC.[Link](https://weibo.com/3982954755/4905682024006101 "UESTC-weibo")
 - 09/2022:  USTC Freshman Scholarship 
