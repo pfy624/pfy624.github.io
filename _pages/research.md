@@ -109,8 +109,26 @@ author_profile: true
  - *Supervisor*: [Prof. Chao TIAN](http://staff.ustc.edu.cn/~ctian/ "Prof. Chao TIAN's homepage"){:target="_blank"} 
 
  - *Program Introduction*:
-   Skull is the major obstacle of the high-quality transcranial ultrasound imaging, as it makes the ultrasound wave being attenuated and phase-distorted. To handle this problem, simulation of the wave behaviour is first implemented to study the mechanism. Then, correction algorithm is designed to reduce the effect of skull.
- - Ultrasound wave behaviour inside the solid is studied (shear wave, lamb wave, scattering, attenuation, etc)
- - Ultrasound imaging system and various kinds of transducres (128 - 512 elements ,frequencies 1-50MHz) is studied.
+   Skull is the major obstacle of the high-quality transcranial ultrasound imaging, as it makes the ultrasound wave being attenuated and phase-distorted. To handle this problem, simulation of the wave behaviour is first implemented to study the mechanism. Then, correction algorithm is designed to reduce the effect of skull. Content:
+ - Ultrasound wave behaviour inside the solid (shear wave, lamb wave, scattering, attenuation, etc)
+ - Ultrasound imaging system and various kinds of transducres (128 - 512 elements ,frequencies 1-50MHz) 
+
+<center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/bmo1.png" 
+        width = "70%">
+    <br>
+    <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        Optical image capturing equipments.
+    </div>
+    <p> </p>
+</center>
 
 ---
