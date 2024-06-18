@@ -7,7 +7,7 @@ author_profile: true
 
 # Research Interets 
 
-1. Signal/Image Processing and Artificial Intelligence 
+1. Signal/Image Processing : 
    - Densoising method
    - Object Detection 
 
@@ -21,7 +21,7 @@ author_profile: true
 
 # Research Experiences 
 
-## 1. 09/2020 ~ present, UESTC, Fault Diagnosis of Steel Wire Rope Based on Image Processing and Deep Learning
+## 1. 09/2020 ~ present, UESTC, Fault Diagnosis of Steel Wire Rope Based on Magnetic Flux Leakage
 
  - *Supervisor*: [Prof. Zhiliang LIU](https://www.smee.uestc.edu.cn/info/1177/8351.htm "Prof. Zhiliang LIU's homepage"){:target="_blank"} 
 
@@ -110,5 +110,7 @@ author_profile: true
 
  - *Program Introduction*:
    Skull is the major obstacle of the high-quality transcranial ultrasound imaging, as it makes the ultrasound wave being attenuated and phase-distorted. To handle this problem, simulation of the wave behaviour is first implemented to study the mechanism. Then, correction algorithm is designed to reduce the effect of skull.
+ - Ultrasound wave behaviour inside the solid is studied (shear wave, lamb wave, scattering, attenuation, etc)
+ - Ultrasound imaging system and various kinds of transducres (128 - 512 elements ,frequencies 1-50MHz) is studied.
 
 ---
