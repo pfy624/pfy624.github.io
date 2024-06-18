@@ -10,10 +10,11 @@ author_profile: true
 1. Prognostics and health management (fault diagnosis, non-destructive testing) : 
    - Intelligent Sensor Method
    - Ultrasound Method
-   - Simulation and modeling
+   - Simulation and Modeling
 
 2. Signal/Image Processing : 
-   - Densoising method
+   - Densoising Method
+   - Image Reconstruction
    - Object Detection
 
 ---
