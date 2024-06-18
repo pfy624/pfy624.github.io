@@ -7,14 +7,14 @@ author_profile: true
 
 # Research Interets 
 
-1. Signal/Image Processing : 
-   - Densoising method
-   - Object Detection 
-
-2. Prognostics and health management (fault diagnosis, anomaly detection) : 
+1. Prognostics and health management (fault diagnosis, non-destructive testing) : 
    - Intelligent Sensor Method
    - Ultrasound Method
    - Simulation and modeling
+
+2. Signal/Image Processing : 
+   - Densoising method
+   - Object Detection
 
 ---
 
