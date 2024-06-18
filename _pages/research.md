@@ -126,7 +126,7 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Optical image capturing equipments.
+        Wave behaviour inside the skull.
     </div>
     <p> </p>
 </center>
