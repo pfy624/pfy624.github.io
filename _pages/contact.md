@@ -7,6 +7,6 @@ author_profile: true
 
 
 📧**Email**: \
-panfeiyang624@mail.ustc.edu.cn
+feiyang.pan@connect.polyu.hk
 
 
