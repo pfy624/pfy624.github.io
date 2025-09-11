@@ -25,6 +25,7 @@ Please find his CV [here](../files/cv_pfy.pdf "Feiyang Pan's CV"){:target="_blan
 - 09/2015 ~ 06/2018: <img src="../files/wuhan_6zhong.jpeg" style="height: 1.1em"> Wuhan No. 6 High School 
 
 # 📃Publications
+
 - **Pan, F.**, Liu, Z.*, Ren, L., Yang, L., & Zuo, M. (2025). Ensemble fault detection based on magnetic flux leakage images with noise robustness for steel wire ropes. ISA transactions. (Impact factor 6.5)  [Link](https://www.sciencedirect.com/science/article/abs/pii/S001905782500271X){:target="_blank"}
 - **Pan, F.**, Wei, X., Tian, C*. (2024) Impact of murine skull on transcranial photoacoustic imaging: a numerical study. Fifteenth International Conference on Information Optics and Photonics (CIOP 2024). SPIE. [Link]
 - Liu, S., Zheng, X., **Pan, F.**, Wang, B., and Tian, C.* (2024) Adaptive edge-enhanced Markov Chain Monte Carlo method for sound speed reconstruction in ultrasound computed tomography. IEEE Transactions on Instrumentation and Measurement (Impact factor 5.6). [Link](https://ieeexplore.ieee.org/document/10648844 "IEEE TIM"){:target="_blank"}
