@@ -11,13 +11,14 @@ author_profile: true
 
 # 👨‍🎓个人简介
 
-**潘斐扬**，男，武汉人，现为中国科学技术大学工程科学学院精密机械与精密仪器系研究生。目前感兴趣的研究方向为故障诊断与设备健康监测中的算法设计。
+**潘斐扬**，男，中国湖北武汉人，现为香港理工大学机械工程系在读博士生。目前感兴趣的研究方向为故障诊断与设备健康监测中的算法设计。
 
 [个人简历](../files/cv_cn.pdf "潘斐扬的简历"){:target="_blank"}. 
 
 # 🎓教育经历 
 
-- 2022年9月 ~ 现今: [工程科学学院](https://pmpi.ustc.edu.cn/main.htm "PMPI, USTC"){:target="_blank"}, <img src="../files/USTC-logo.png" style="height: 1.1em"> [中国科学技术大学](https://en.ustc.edu.cn "USTC"){:target="_blank"} 
+- 2025年9月 ~ 至今：香港理工大学机械工程系
+- 2022年9月 ~ 2025年6月: [工程科学学院](https://pmpi.ustc.edu.cn/main.htm "PMPI, USTC"){:target="_blank"}, <img src="../files/USTC-logo.png" style="height: 1.1em"> [中国科学技术大学](https://en.ustc.edu.cn "USTC"){:target="_blank"} 
     - 精密机械与精密仪器系，学术型硕士研究生
     - GPA: 3.96/4.30 (91.7/100)，专业排名 6/132
 - 2018年9月 ~ 2022年6月: <img src="../files/glasgow_college.jpg" style="height: 1.1em"> [格拉斯哥学院](https://www.gla.uestc.edu.cn/english/Home.htm "Glasgow College，UESTC"){:target="_blank"}, <img src="../files/UESTC-logo.jpg" style="height: 1.1em"> [电子科技大学](https://en.uestc.edu.cn/ "UESTC"){:target="_blank"}, <img src="../files/glasgow-logo.jpg" style="height: 1.1em"> [格拉斯哥大学](https://www.gla.ac.uk/ "UoG"){:target="_blank"}
@@ -43,6 +44,7 @@ author_profile: true
 
 # 🏅获得奖项
 
+- 09/2025： 港府奖学金（HKPFS）
 - 02/2024:  研究生奖学金
 - 10/2023:  合作的IEEE-PHM论文获得PHM会议最佳会议论文奖
 - 05/2023:  研究成果被电子科技大学微博官方号报道[Link](https://weibo.com/3982954755/4905682024006101 "UESTC-weibo")
