@@ -29,8 +29,11 @@ author_profile: true
 # 📃成果
 
 ## 论文
-- **Pan, F**., Liu, Z., Ren, L., Yang, L., & Zuo, M. (2024) Ensemble fault detection based on magnetic flux leakage images with noise robustness for steel wire ropes. (under review)
-- **Pan, F**., Liu, Z., Ren, L., & Zuo, M. (2023). Adaptive local flaw detection based on magnetic flux leakage images with a noise distortion effect for steel wire ropes. IEEE Transactions on Industrial Electronics. (Impact factor = 7.7) [Link](https://ieeexplore.ieee.org/abstract/document/10122866 "IEEE TIE"){:target="_blank"}.
+
+- **Pan, F.**, Liu, Z.*, Ren, L., Yang, L., & Zuo, M. (2025). Ensemble fault detection based on magnetic flux leakage images with noise robustness for steel wire ropes. ISA transactions. (Impact factor 6.5)  [Link](https://www.sciencedirect.com/science/article/abs/pii/S001905782500271X){:target="_blank"}
+- **Pan, F.**, Wei, X., Tian, C*. (2024) Impact of murine skull on transcranial photoacoustic imaging: a numerical study. Fifteenth International Conference on Information Optics and Photonics (CIOP 2024). SPIE. [Link]
+- Liu, S., Zheng, X., **Pan, F.**, Wang, B., and Tian, C.* (2024) Adaptive edge-enhanced Markov Chain Monte Carlo method for sound speed reconstruction in ultrasound computed tomography. IEEE Transactions on Instrumentation and Measurement (Impact factor 5.6). [Link](https://ieeexplore.ieee.org/document/10648844 "IEEE TIM"){:target="_blank"}
+- **Pan, F.**., Liu, Z., Ren, L., & Zuo, M. (2023). Adaptive local flaw detection based on magnetic flux leakage images with a noise distortion effect for steel wire ropes. IEEE Transactions on Industrial Electronics. (Impact factor = 7.7) [Link](https://ieeexplore.ieee.org/abstract/document/10122866 "IEEE TIE"){:target="_blank"}.
 - **Pan, F.**, Huang, Y., Ren, L., & Liu, Z. (2023, October). Inspection of Wire Ropes Based on Magnetic Flux Leakage Images by Using YOLOv5. In 2023 Global Reliability and Prognostics and Health Management Conference (PHM-Hangzhou) (pp. 1-7). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/10482526 "IEEE PHM"){:target="_blank"}.
 - **Pan, F.**, Ren, L., Zhou, J., & Liu, Z. (2022, March). Fault classification based on computer vision for steel wire ropes. In Journal of Physics: Conference Series (Vol. 2184, No. 1, p. 012035). IOP Publishing. [Link](https://iopscience.iop.org/article/10.1088/1742-6596/2184/1/012035/meta "IOP conf"){:target="_blank"}.
 
