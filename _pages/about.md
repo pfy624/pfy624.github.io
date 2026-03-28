@@ -9,7 +9,7 @@ redirect_from:
 
 # 👨‍🎓About
 
-**Feiyang Pan** is a 1<sup>st</sup>-year PhD student in the Department of Mechanical Engineering, The Hong Kong Polytechnic University (PolyU). His research interests include signal/image processing, prognostics and health management by using advanced signal processing and data-mining methods. 
+**Feiyang Pan** is a 1<sup>st</sup>-year PhD student in the Department of Mechanical Engineering, The Hong Kong Polytechnic University (PolyU). His research interests include optofluidics, photoacoutic tweezering and computer vision based particle manipulation.
 
 Please find his CV [here](../files/cv_pfy.pdf "Feiyang Pan's CV"){:target="_blank"}. 
 
