@@ -7,12 +7,17 @@ author_profile: true
 
 # Research Interets 
 
-1. Prognostics and health management (fault diagnosis, non-destructive testing) : 
+1. Micro-manipulation and control：
+   - Optofluidics
+   - Laser-induced cavitation based manipulation
+   - photoacoustic tweezering
+
+2. Prognostics and health management (fault diagnosis, non-destructive testing) : 
    - Intelligent Sensor Method
    - Ultrasound Method
    - Simulation and Modeling
 
-2. Signal/Image Processing : 
+3. Signal/Image Processing : 
    - Densoising Method
    - Image Reconstruction
    - Object Detection
@@ -22,7 +27,15 @@ author_profile: true
 
 # Research Experiences 
 
-## 1. 09/2020 ~ present, UESTC, Fault Diagnosis of Steel Wire Rope Based on Magnetic Flux Leakage
+## 1. 09/2025 ~ present, PolyU, Pulsed laser based micro-manipulation
+
+ - *Supervisor*: [Prof. Zhongqing Su](https://www.polyu.edu.hk/researchgrp/shm/ "Prof. Zhongqing Su's homepage"){:target="_blank"}
+
+ - *Program Introduction*: In progress.
+
+
+
+## 2. 09/2020 ~ 06/2025, UESTC/UoG, Fault Diagnosis of Steel Wire Rope Based on Magnetic Flux Leakage
 
  - *Supervisor*: [Prof. Zhiliang LIU](https://www.smee.uestc.edu.cn/info/1177/8351.htm "Prof. Zhiliang LIU's homepage"){:target="_blank"} 
 
@@ -105,7 +118,7 @@ author_profile: true
     <p> </p>
 </center>
 
-## 2. 09/2022 ~ present, USTC, Impact of Skull to Ultrasound Wave
+## 3. 09/2022 ~ 06/2025, USTC, Impact of Skull to Ultrasound Wave
 
  - *Supervisor*: [Prof. Chao TIAN](http://staff.ustc.edu.cn/~ctian/ "Prof. Chao TIAN's homepage"){:target="_blank"} 
 
