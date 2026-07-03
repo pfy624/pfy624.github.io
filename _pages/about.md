@@ -9,7 +9,7 @@ redirect_from:
 
 # 👨‍🎓About
 
-**Feiyang Pan** is a 1<sup>st</sup>-year PhD student in the Department of Mechanical Engineering, The Hong Kong Polytechnic University (PolyU). His research interests include optofluidics, photoacoutic tweezering and computer vision based particle manipulation.
+**Feiyang Pan** is a 1<sup>st</sup>-year PhD student in the Department of Mechanical Engineering under the supervision of Prof Su Zhongqing, The Hong Kong Polytechnic University (PolyU). His research interests include optofluidics, laser-induced cavitation manipulation and computer vision based micro-manipulation.
 
 Please find his CV [here](../files/cv_pfy.pdf "Feiyang Pan's CV"){:target="_blank"}. 
 
